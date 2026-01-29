@@ -1,0 +1,7 @@
+# Random notes
+
+## Ideas
+
+- Compare sectors, which sector had the most influence on position/overall lap time. 
+- How did everyone's lap times compare to qualifying, and how did position change from qualifying
+- Can we build a model to predict final race position based on start position and average laptime?
